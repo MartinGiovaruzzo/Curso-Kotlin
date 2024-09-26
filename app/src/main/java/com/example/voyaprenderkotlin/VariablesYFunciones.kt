@@ -7,15 +7,15 @@ package com.example.voyaprenderkotlin
 
 fun main() {
     showMyName();
-    showMyAge(24)
-    add(57, 75)
-    val result = subtrac(17, 5)
-    println("El resultado de la resta es: $result")
+    showMyAge(24);
+    add(27, 56);
+    val result = subtrac(17, 5);
+    println("El resultado de la resta es: $result");
 }
 
 
 fun showMyName() {
-    println("Hi My name is Martin");
+    println("Hola, mi nombre es Martin");
 }
 
 fun showMyAge(currentAge: Int) {
