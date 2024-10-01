@@ -1,4 +1,4 @@
-package com.example.voyaprenderkotlin
+package com.example.voyaprenderkotlin.sintaxis
 
 fun main() {
     var name: String? = null

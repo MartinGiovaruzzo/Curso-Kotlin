@@ -1,6 +1,4 @@
-package com.example.voyaprenderkotlin
-
-import java.nio.file.WatchEvent
+package com.example.voyaprenderkotlin.sintaxis
 
 fun main() {
     mutableList();
